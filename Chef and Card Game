@@ -2,7 +2,7 @@ Chef is playing a card game with his friend Morty Smith.
 
 The rules of the game are as follows:
 
-There are two piles of cards, pile A and pile B, each with N cards in it. Pile A belongs to Chef and pile B belongs to Morty.
+Thereare two piles of cards, pile A and pile B, each with N cards in it. Pile A belongs to Chef and pile B belongs to Morty.
 Each card has one positive integer on it
 The ‘power’ of a card is defined as the sum of digits of the integer on that card
 The game consists of N rounds
